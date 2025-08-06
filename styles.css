@@ -1,9 +1,11 @@
 body{
     color:blueviolet;
     background:rgb(12, 12, 12);
+    margin:1px;
 }
 
 
 header{
 border-bottom: solid 2px rgb(133,133,173);
+margin:40px;
 }
