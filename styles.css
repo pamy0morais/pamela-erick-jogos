@@ -2,3 +2,9 @@ body{
     color:blueviolet;
     background:rgb(12, 12, 12);
 }
+
+
+header{
+border: solid 2px bluedark;
+background:rgb(255, 255, 255) ;
+}
