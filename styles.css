@@ -33,3 +33,7 @@ h1{
 img{
     height: 250px;
 }
+
+.categoria-videos{
+    display: flex;
+}
